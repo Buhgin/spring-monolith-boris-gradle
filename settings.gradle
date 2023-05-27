@@ -1,0 +1,6 @@
+rootProject.name = 'spring-monolith-boris-gradle'
+include 'api'
+include 'dao'
+include 'business'
+include 'security'
+
